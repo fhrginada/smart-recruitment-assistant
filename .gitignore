@@ -4,8 +4,3 @@ venv/
 __pycache__/
 *.pyc
 .streamlit/
-top10_candidate_ranking.csv
-all_models_comparison.csv
-city_mapping.csv
-
- 
